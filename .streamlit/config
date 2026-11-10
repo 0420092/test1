@@ -1,0 +1,10 @@
+# 라이트/다크를 따로 정의해야 브라우저(OS) 설정에 따라 자동 전환된다.
+# [theme]에 색을 직접 넣으면 라이트 하나로 고정되므로 공통값만 둔다.
+[theme]
+baseRadius = "medium"
+
+[theme.light]
+primaryColor = "#2E9E5B"
+
+[theme.dark]
+primaryColor = "#3DBE72"
